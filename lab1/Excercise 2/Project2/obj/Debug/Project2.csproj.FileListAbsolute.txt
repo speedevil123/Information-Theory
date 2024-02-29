@@ -1,0 +1,7 @@
+C:\Users\Никита\Desktop\теория информации\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Никита\Desktop\теория информации\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Никита\Desktop\теория информации\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Никита\Desktop\теория информации\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\теория информации\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\теория информации\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Никита\Desktop\теория информации\Project2\Project2\obj\Debug\Project2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Никита\Desktop\теория информации\Лаб2\Задание 2\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\Никита\Desktop\теория информации\Лаб2\Задание 2\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\Никита\Desktop\теория информации\Лаб2\Задание 2\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\Никита\Desktop\теория информации\Лаб2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\теория информации\Лаб2\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\теория информации\Лаб2\Задание 2\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\Никита\Desktop\теория информации\Лаб2\Задание 2\Задание 2\obj\Debug\Задание 2.pdb
