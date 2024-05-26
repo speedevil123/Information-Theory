@@ -1,0 +1,7 @@
+C:\Users\Никита\Desktop\теория информации\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Никита\Desktop\теория информации\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Никита\Desktop\теория информации\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Никита\Desktop\теория информации\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\теория информации\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\теория информации\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Никита\Desktop\теория информации\lab5\lab5\obj\Debug\lab5.pdb
